@@ -1,5 +1,4 @@
-Flask
-gunicorn
-pandas
-request
-render_template
+Flask==2.1.2
+gunicorn==20.1.0
+pandas==1.4.3
+
